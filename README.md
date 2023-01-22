@@ -1,2 +1,5 @@
 # C
-learning C language process ...
+
+- C learning journey
+
+![](./code.gif)
